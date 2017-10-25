@@ -1,6 +1,6 @@
 
 
-var proxy = "PROXY http://45.177.167.54:25;";
+var proxy = "PROXY 45.177.167.54:25;";
 
 var domains = {
   "pinterest.com": 1,
@@ -2607,7 +2607,7 @@ var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
     if (host == "www.so.com") {
-        return "PROXY http://45.177.167.54:25";
+        return "PROXY 45.177.167.54:25";
     }
 
     var suffix;
@@ -2616,7 +2616,7 @@ function FindProxyForURL(url, host) {
         suffix = host.substring(pos + 1);
         if (suffix == "360.cn")
             if (url.indexOf('http://') == 0)
-                return "PROXY http://45.177.167.54:25;
+                return "PROXY 45.177.167.54:25;
         if (hasOwnProperty.call(domains, suffix)) {
             return proxy;
         }
