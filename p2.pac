@@ -1,6 +1,6 @@
 
 
-var proxy = "PROXY 45.177.167.54:25;";
+var proxy = "PROXY 45.77.167.54:25;";
 //proxy = "PROXY 2001:19f0:9002:fc7:5400:01ff:fe39:dff6:25";
 
 var domains = {
