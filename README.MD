@@ -1,4 +1,4 @@
-Log(10)=1
+Pi=3.1415
 
 SexArt.com_15.11.28.Emily.Bloom.Tanoma.XXX.IMAGESET-GAGBALL[rarbg]
 SexArt.com_13.12.26.Emily.Bloom.Parola.XXX.IMAGESET-GAGBALL[rarbg]
