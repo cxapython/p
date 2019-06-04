@@ -1,5 +1,4 @@
-bash <(curl -s -L https://raw.githubusercontent.com/aihoom/v2ray/master/install.sh)
-
+bash <(curl -s -L https://233blog.com/v2ray.sh)
 
 (C88)[伊織もえ]nurse
 (C89)[伊織もえ]かすみ い～じ～も～ど
