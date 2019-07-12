@@ -1,5 +1,8 @@
 bash <(curl -s -L https://233blog.com/v2ray.sh)
 
+窒物者系列（7V-9.16G）【百度盘】链接: https://pan.baidu.com/s/1bfktYbZq8BIuc8UTIZ150Q 
+
+　提取码: 9b4s　解压密码：ss8006
 
 502812
 1059836
