@@ -1,4 +1,5 @@
 bash <(curl -s -L https://233blog.com/v2ray.sh)
+bash <(curl -s -L https://git.io/v2ray.sh)
 
 
 magnet:?xt=urn:btih:d70e7b0feae1d9b5595f92b65049ffa5602be486&dn=%E9%A9%95%E5%B0%8F%E8%BA%AB%E6%9D%90%E8%8B%97%E6%A2%9D%E5%A6%B9%E5%AD%90%E8%A2%AB%E7%82%AE%E5%8F%8B%E5%90%84%E7%A8%AE%E7%8E%A9%E5%BC%84%20%E8%82%9B%E5%A1%9E%E6%8F%92%E8%8F%8A%E8%8A%B1%E9%80%BC%E9%80%BC%E6%8F%92%E8%91%97%E6%8C%AF%E5%8B%95%E6%A3%92%E5%86%8D%E7%88%86%E8%8F%8A%E6%8C%89%E6%91%A9%E5%99%A8%E6%8F%92%E5%85%A5&tr=http%3A%2F%2Fsukebei.tracker.wf%3A8888%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce
