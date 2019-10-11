@@ -1,6 +1,8 @@
 bash <(curl -s -L https://233blog.com/v2ray.sh)
 bash <(curl -s -L https://git.io/v2ray.sh)
 
+https://github.com/FelisCatus/SwitchyOmega/wiki/GFWList.bak
+
 
 magnet:?xt=urn:btih:d70e7b0feae1d9b5595f92b65049ffa5602be486&dn=%E9%A9%95%E5%B0%8F%E8%BA%AB%E6%9D%90%E8%8B%97%E6%A2%9D%E5%A6%B9%E5%AD%90%E8%A2%AB%E7%82%AE%E5%8F%8B%E5%90%84%E7%A8%AE%E7%8E%A9%E5%BC%84%20%E8%82%9B%E5%A1%9E%E6%8F%92%E8%8F%8A%E8%8A%B1%E9%80%BC%E9%80%BC%E6%8F%92%E8%91%97%E6%8C%AF%E5%8B%95%E6%A3%92%E5%86%8D%E7%88%86%E8%8F%8A%E6%8C%89%E6%91%A9%E5%99%A8%E6%8F%92%E5%85%A5&tr=http%3A%2F%2Fsukebei.tracker.wf%3A8888%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce
 magnet:?xt=urn:btih:4fab51a1aaa001a07366dd020554bebe8e1a0024&dn=%E6%B5%81%E5%87%BA%E5%9C%9F%E8%B1%AA%E9%85%92%E5%BA%97%E7%BA%A6%E7%82%AE%E4%BD%93%E6%A0%A120%E5%B2%81%E5%B9%B2%E7%BB%83%E7%9F%AD%E5%8F%91%E6%97%A0%E6%AF%9B%E6%B8%85%E7%BA%AF%E6%BC%82%E4%BA%AE%E5%AD%A6%E7%94%9F%E6%8F%B4%E4%BA%A4%E5%A6%B9%E7%BE%8E%E4%B9%B3%E5%AB%A9%E7%A9%B4%E6%97%A0%E5%A5%97%E5%95%AA%E5%95%AA%E5%95%AA%E6%92%B8%E7%82%B9%E5%BE%88%E9%AB%98&tr=http%3A%2F%2Fsukebei.tracker.wf%3A8888%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce
